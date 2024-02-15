@@ -1,4 +1,4 @@
-### Sqli Dummper Gold 
+### Sqli Dummper Gold the new version 2024
 
 - GUI sqli injection tool developed with c# based on python scripts.
 
@@ -31,7 +31,7 @@ no need to search for dorks , injected website or proxys.
 
 ### Links
 
-Demo : [Go Demo](https://youtu.be/ox-aO2-kjOE)
+Demo : [Go Demo]([http://scsstore.rf.gd])
 
-SqliDummperGold  : [Download](https://shoppy.gg/product/l02KN4R "Download")
+SqliDummperGold  : [Download](http://scsstore.rf.gd "Download")
 
