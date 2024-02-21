@@ -1,29 +1,29 @@
 ### Sqli Dummper Gold the new version 2024
 
 - GUI sqli injection tool developed with c# based on python scripts.
+  
 
 ![](http://www.tresfacile.net/wp-content/uploads/2018/10/python-download.png)![](https://kmyr.dev/posts/csharp.png)
 
 
+# Demo Video 
+[![Watch the video](https://i.ibb.co/QkYtTgp/play-Screen.png)](https://www.veed.io/embed/a3160a10-7994-4d08-8006-204b4e851349)
 
-
-
-
-[![Watch the video](https://www.iconsdb.com/icons/preview/black/play-xxl.png)](https://www.veed.io/embed/a3160a10-7994-4d08-8006-204b4e851349)
+![alt text](http://scsstore.rf.gd/image/catalog/sqli_dumper_gold_3_0_2.jpg)
 
 
 
 # How To Use
+
 it's realy simple.
 Just need to start the exe file :tw-1f60d: and inject with sqli like a boss.
 no need to search for dorks , injected website or proxys.
+
 1. Multi Treaded
-1. Proxy scraper included (HTTP, HTTPS)
-1. bypassing google Captcha
-1. auto crack password included
-2. fully auto
-
-
+2. Proxy scraper included (HTTP, HTTPS)
+3. bypassing google Captcha
+4. auto crack password included
+5. fully auto
 
 
 ### Disclaimer :tw-26a0:
