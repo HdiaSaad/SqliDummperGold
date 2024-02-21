@@ -10,7 +10,7 @@
 [![Watch the video](https://i.ibb.co/QkYtTgp/play-Screen.png)](https://www.veed.io/embed/a3160a10-7994-4d08-8006-204b4e851349)
 
 
-<img src="http://scsstore.rf.gd/image/catalog/sqli_dumper_gold_3_0_2.jpg" width="128"/>
+<img src="http://scsstore.rf.gd/image/catalog/sqli_dumper_gold_3_0_2.jpg" width="744"/>
 
 
 # How To Use
