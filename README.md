@@ -11,7 +11,7 @@
 
 [![Watch the video](https://www.iconsdb.com/icons/preview/black/play-xxl.png)](https://www.veed.io/embed/a3160a10-7994-4d08-8006-204b4e851349)
 
-![](http://scsstore.rf.gd/image/catalog/sqli_dumper_gold_3_0_2.jpg)
+
 
 # How To Use
 it's realy simple.
