@@ -7,7 +7,7 @@
 
 
 
-![](https://i.ibb.co/HFMpXL4/ezgif-com-gif-maker-1.gif)
+![](https://www.veed.io/embed/a3160a10-7994-4d08-8006-204b4e851349)
 
 ![](https://i.ibb.co/Z8gt81C/ezgif-com-gif-maker-2.gif)
 
@@ -31,7 +31,7 @@ no need to search for dorks , injected website or proxys.
 
 ### Links
 
-Demo : [Go Demo]([http://scsstore.rf.gd])
+Demo : [Go Demo](http://scsstore.rf.gd)
 
 SqliDummperGold  : [Download](http://scsstore.rf.gd "Download")
 
