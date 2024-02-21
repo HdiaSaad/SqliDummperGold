@@ -7,11 +7,10 @@
 
 
 
-![](https://www.veed.io/embed/a3160a10-7994-4d08-8006-204b4e851349)
+![]()
 
-![](https://i.ibb.co/Z8gt81C/ezgif-com-gif-maker-2.gif)
+[![Watch the video](http://scsstore.rf.gd/image/catalog/sqli_dumper_gold_3_0_2.jpg)](https://www.veed.io/embed/a3160a10-7994-4d08-8006-204b4e851349)
 
-![](https://i.ibb.co/Ln7qs4R/ezgif-com-gif-maker-3.gif)
 
 
 # How To Use
